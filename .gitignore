@@ -1,0 +1,8 @@
+.idea/.gitignore
+.idea/bazel101.iml
+.idea/modules.xml
+.idea/vcs.xml
+**/bazel-application
+**/bazel-bin
+**/bazel-out
+**/bazel-testlogs
